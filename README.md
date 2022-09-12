@@ -1,2 +1,1 @@
-# Zomato Landing page 10622
-this is setup branch
+# Zomato Landing Page 10622
